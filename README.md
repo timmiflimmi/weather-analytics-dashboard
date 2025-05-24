@@ -23,23 +23,13 @@ This project is a full-stack weather analytics solution that automatically colle
 
 ## 🚀 Live Demo
 
-<!-- Add screenshots here -->
-### Dashboard Screenshots
+### Dashboard Screenshot
 
-**Main Dashboard View**
-```
-[Add screenshot of main dashboard here]
-```
+**Interactive Weather Analytics Dashboard**
 
-**Temperature Timeline**
-```
-[Add screenshot of temperature chart here]
-```
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
-**Weather Distribution**
-```
-[Add screenshot of weather pie chart here]
-```
+*Complete dashboard featuring real-time weather metrics, interactive charts, and automated data collection controls*
 
 ## 🛠️ Tech Stack
 
@@ -268,7 +258,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-[@timmiflimmi](https://github.com/timmiflimmi)
+**Tim Flimmer** - [@timmiflimmi](https://github.com/timmiflimmi)
 
 Project Link: [https://github.com/timmiflimmi/weather-analytics-dashboard](https://github.com/timmiflimmi/weather-analytics-dashboard)
 
