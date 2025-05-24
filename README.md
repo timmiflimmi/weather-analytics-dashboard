@@ -110,6 +110,8 @@ weather-analytics-dashboard/
 │   └── 📊 update_stats.json    # Update statistics
 ├── 📂 logs/
 │   └── 📝 weather_auto_update.log  # Automation logs
+├── 📂 screenshots/
+│   └── 📸 dashboard-overview.png   # Dashboard screenshot
 └── 📂 notebooks/               # Jupyter notebooks (future)
 ```
 
